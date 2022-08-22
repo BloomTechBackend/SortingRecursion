@@ -11,4 +11,5 @@
 
 ## Set Up
 
-- Just start a new project in IntelliJ. 
+- Clone this repo and open it in IntelliJ. 
+- Run the main method. If that runs successfully, you are ready to go!
